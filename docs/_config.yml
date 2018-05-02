@@ -1,3 +1,6 @@
+title: Homebrew Documentation
+description: Documentation for the missing package manager for macOS.
+
 remote_theme: benbalter/retlab
 
 exclude:
@@ -11,3 +14,5 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
+  
+
