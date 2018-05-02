@@ -1,7 +1,7 @@
 title: Homebrew Documentation
 description: Documentation for the missing package manager for macOS.
 
-remote_theme: homebrew/jekyll-theme-homebrew
+remote_theme: benbalter/retlab
 
 exclude:
   - bin
